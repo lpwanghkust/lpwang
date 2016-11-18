@@ -1,0 +1,14 @@
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/aggregate/MyDoubleSum.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToListString.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFTwoListList.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToStringIntMap.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFIntegerToString.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFListListInt.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFListString.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/JavaMetastoreDataSourcesSuite.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToIntIntMap.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/test/Complex.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFStringString.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/execution/UDFToListInt.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/JavaDataFrameSuite.java
+/Users/ourokutaira/Documents/ideaProjects/lpwang/sql/hive/src/test/java/org/apache/spark/sql/hive/aggregate/MyDoubleAvg.java

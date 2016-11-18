@@ -102,7 +102,7 @@ object SparkSubmit {
       ____              __
      / __/__  ___ _____/ /__
     _\ \/ _ \/ _ `/ __/  '_/
-   /___/ .__/\_,_/_/ /_/\_\   version %s
+   /___/ .__/\_,_/_/ /_/\_\   luping_version %s
       /_/
                         """.format(SPARK_VERSION))
     printStream.println("Type --help for more information.")
